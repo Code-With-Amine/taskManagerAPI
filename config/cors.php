@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => [env('FRONTEND_URL', 'http://localhost:3000')],
+    'allowed_origins' => [env('FRONTEND_URL', 'https://beorganized-qs92o3tqj-amines-projects-451a4c5b.vercel.app')],
 
     'allowed_origins_patterns' => [],
 
